@@ -1,2 +1,2 @@
 # Python-Snake
-Snake game
+ Simple python3 games !
